@@ -1,5 +1,7 @@
 # About the Project
 
+[![Join the chat at https://gitter.im/purposeindustries/CamanJS](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/purposeindustries/CamanJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://secure.travis-ci.org/meltingice/CamanJS.png)](http://travis-ci.org/meltingice/CamanJS)
 
 The main focus of CamanJS is manipulating images using the HTML5 canvas and Javascript. It's a combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques. It is also completely library independent and can be safely used next to jQuery, YUI, Scriptaculous, MooTools, etc.
